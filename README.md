@@ -1,6 +1,6 @@
 # External Influences on California High School Performance
-ECE 143 Spring 2018 Group Project
-Group 5: Kenny Chen, Kevin Lai, Yan Sun
+ECE 143 Spring 2018 Group Project  
+Group 5: Kenny Chen, Kevin Lai, Yan Sun  
 [Project Proposal](https://docs.google.com/document/d/1NXY5QkYFd78zrLC9b8EnWYyzunz2E4unk_1N1ArQeUQ/edit)
 
 ### 1. Description of Project
