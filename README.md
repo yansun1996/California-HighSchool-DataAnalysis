@@ -1,7 +1,8 @@
 # External Influences on California High School Performance
 ECE 143 Spring 2018 Group Project  
 Group 5: Kenny Chen, Kevin Lai, Yan Sun  
-[Project Proposal](https://docs.google.com/document/d/1NXY5QkYFd78zrLC9b8EnWYyzunz2E4unk_1N1ArQeUQ/edit)
+[Project Proposal](https://docs.google.com/document/d/1NXY5QkYFd78zrLC9b8EnWYyzunz2E4unk_1N1ArQeUQ/edit)  
+[Project Presentation](https://docs.google.com/presentation/d/1ngVxBRv6Yb1UsKIc7TrmiabNvtQHxoRScf5nfO8kSBM/edit)  
 
 ### 1. Description of Project
 Parents and family members care about the physical well beings and academic performances of their children at schools. Nowadays, two significant measures for high school student performance in these categories are the standardized SAT exam and physical fitness test results. However, apart from their own inherited physical characterization and ability to study and absorb knowledge, there exists many other external factors that may affect a student’s performance, including regional weather condition, financial income situation, and local safety situation. In order to explore the possible subliminal relations among these factors and student performance, our group plans to use several relevant datasets in order to investigate any correlations and visualize any findings. Specifically, we are interested in investigating how weather, crime rates, and financial factors affect the performance of high school students both physically and academically. The relevant and publically available datasets online that we plan to use for this analysis are listed above, and include average annual California temperatures, student SAT scores, student physical fitness abilities, arrests and crime rates in California, and financial situations. All data is given by county and a yearly time frame, and is provided by the government that will ensure accuracy.
